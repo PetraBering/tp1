@@ -3,3 +3,4 @@ je mets autre chose au lieu
 ecnore autre
 
 pour identifier le branch petra une modif
+je crée des conflit avec master
